@@ -1,14 +1,14 @@
 {
-  "description.oneDarkPro.editorTheme": "Switch to different editor theme",
-  "description.oneDarkPro.italic": "Toggle italics on some scopes",
-  "description.oneDarkPro.vivid": "Toggle vivid colors",
-  "description.oneDarkPro.bold": "Toggle bold on some scopes",
-  "description.oneDarkPro.showChangelog": "Show changelog",
-  "description.oneDarkPro.setVivid": "Turn on vivid colors",
-  "description.oneDarkPro.cancelVivid": "Turn off vivid colors",
-  "description.oneDarkPro.setBold": "Turn on bold code on some scopes",
-  "description.oneDarkPro.cancelBold": "Turn off bold code on some scopes",
-  "description.oneDarkPro.setItalic": "Turn on italic code on some scopes",
-  "description.oneDarkPro.cancelItalic": "Turn off italic code on some scopes",
-  "description.oneDarkPro.markdownStyle": "Toggle Markdown style"
+  "description.oneDarkProTweaked.editorTheme": "Switch to different editor theme",
+  "description.oneDarkProTweaked.italic": "Toggle italics on some scopes",
+  "description.oneDarkProTweaked.vivid": "Toggle vivid colors",
+  "description.oneDarkProTweaked.bold": "Toggle bold on some scopes",
+  "description.oneDarkProTweaked.showChangelog": "Show changelog",
+  "description.oneDarkProTweaked.setVivid": "Turn on vivid colors",
+  "description.oneDarkProTweaked.cancelVivid": "Turn off vivid colors",
+  "description.oneDarkProTweaked.setBold": "Turn on bold code on some scopes",
+  "description.oneDarkProTweaked.cancelBold": "Turn off bold code on some scopes",
+  "description.oneDarkProTweaked.setItalic": "Turn on italic code on some scopes",
+  "description.oneDarkProTweaked.cancelItalic": "Turn off italic code on some scopes",
+  "description.oneDarkProTweaked.markdownStyle": "Toggle Markdown style"
 }

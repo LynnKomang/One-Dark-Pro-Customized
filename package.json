@@ -1,7 +1,7 @@
 {
-  "name": "material-theme",
-  "displayName": "One Dark Pro",
-  "description": "Atom's iconic One Dark theme for Visual Studio Code",
+  "name": "material-theme-tweaked",
+  "displayName": "One Dark Pro Tweaked",
+  "description": "Atom's iconic One Dark theme for Visual Studio Code with some personal tweaks",
   "version": "3.17.2",
   "publisher": "zhuangtongfa",
   "license": "MIT",
@@ -67,70 +67,70 @@
     ],
     "commands": [
       {
-        "command": "oneDarkPro.showChangelog",
-        "title": "%description.oneDarkPro.showChangelog%",
+        "command": "oneDarkProTweaked.showChangelog",
+        "title": "%description.oneDarkProTweaked.showChangelog%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.setVivid",
-        "title": "%description.oneDarkPro.setVivid%",
+        "command": "oneDarkProTweaked.setVivid",
+        "title": "%description.oneDarkProTweaked.setVivid%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.cancelVivid",
-        "title": "%description.oneDarkPro.cancelVivid%",
+        "command": "oneDarkProTweaked.cancelVivid",
+        "title": "%description.oneDarkProTweaked.cancelVivid%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.setItalic",
-        "title": "%description.oneDarkPro.setItalic%",
+        "command": "oneDarkProTweaked.setItalic",
+        "title": "%description.oneDarkProTweaked.setItalic%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.cancelItalic",
-        "title": "%description.oneDarkPro.cancelItalic%",
+        "command": "oneDarkProTweaked.cancelItalic",
+        "title": "%description.oneDarkProTweaked.cancelItalic%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.setBold",
-        "title": "%description.oneDarkPro.setBold%",
+        "command": "oneDarkProTweaked.setBold",
+        "title": "%description.oneDarkProTweaked.setBold%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.cancelBold",
-        "title": "%description.oneDarkPro.cancelBold%",
+        "command": "oneDarkProTweaked.cancelBold",
+        "title": "%description.oneDarkProTweaked.cancelBold%",
         "category": "OneDark Pro"
       }
     ],
     "themes": [
       {
-        "label": "One Dark Pro",
+        "label": "One Dark Pro Tweaked",
         "uiTheme": "vs-dark",
         "path": "./themes/OneDark-Pro.json"
       },
       {
-        "label": "One Dark Pro Flat",
+        "label": "One Dark Pro Tweaked Flat",
         "uiTheme": "vs-dark",
         "path": "./themes/OneDark-Pro-flat.json"
       },
       {
-        "label": "One Dark Pro Darker",
+        "label": "One Dark Pro Tweaked Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/OneDark-Pro-darker.json"
       },
       {
-        "label": "One Dark Pro Mix",
+        "label": "One Dark Pro Tweaked Mix",
         "uiTheme": "vs-dark",
         "path": "./themes/OneDark-Pro-mix.json"
       }
     ],
     "configuration": {
-      "title": "One Dark Pro",
+      "title": "One Dark Pro Tweaked",
       "properties": {
-        "oneDarkPro.editorTheme": {
+        "oneDarkProTweaked.editorTheme": {
           "type": "string",
           "default": "One Dark Pro",
-          "markdownDescription": "%description.oneDarkPro.editorTheme%",
+          "markdownDescription": "%description.oneDarkProTweaked.editorTheme%",
           "enum": [
             "One Dark Pro",
             "One Dark Pro Flat",
@@ -151,27 +151,27 @@
             "Dark Modern"
           ]
         },
-        "oneDarkPro.italic": {
+        "oneDarkProTweaked.italic": {
           "type": "boolean",
           "default": true,
-          "description": "%description.oneDarkPro.italic%"
+          "description": "%description.oneDarkProTweaked.italic%"
         },
-        "oneDarkPro.vivid": {
+        "oneDarkProTweaked.vivid": {
           "type": "boolean",
           "default": false,
-          "markdownDescription": "%description.oneDarkPro.vivid%"
+          "markdownDescription": "%description.oneDarkProTweaked.vivid%"
         },
-        "oneDarkPro.bold": {
+        "oneDarkProTweaked.bold": {
           "type": "boolean",
           "default": false,
-          "markdownDescription": "%description.oneDarkPro.bold%"
+          "markdownDescription": "%description.oneDarkProTweaked.bold%"
         },
-        "oneDarkPro.markdownStyle": {
+        "oneDarkProTweaked.markdownStyle": {
           "type": "boolean",
           "default": true,
-          "description": "%description.oneDarkPro.markdownStyle%"
+          "description": "%description.oneDarkProTweaked.markdownStyle%"
         },
-        "oneDarkPro.color": {
+        "oneDarkProTweaked.color": {
           "type": "object",
           "scope": "resource",
           "default": {
