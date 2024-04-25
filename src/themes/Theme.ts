@@ -91,11 +91,20 @@ function configFactory(configuration) {
       variable: {
         foreground: colorObj.lightWhite,
       },
+      'variable.readonly': {
+        foreground: colorObj.chalky,
+      },
+      parameter: {
+        foreground: colorObj.lightWhite,
+      },
+      'parameter.declaration': {
+        foreground: colorObj.coral,
+      },
       property: {
         foreground: colorObj.lightWhite,
       },
-      'variable.readonly': {
-        foreground: colorObj.chalky,
+      'property.declaration': {
+        foreground: colorObj.coral,
       },
     },
     tokenColors: result,

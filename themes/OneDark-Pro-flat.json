@@ -36,11 +36,20 @@
     "variable": {
       "foreground": "#abb2bf"
     },
+    "variable.readonly": {
+      "foreground": "#e5c07b"
+    },
+    "parameter": {
+      "foreground": "#abb2bf"
+    },
+    "parameter.declaration": {
+      "foreground": "#e06c75"
+    },
     "property": {
       "foreground": "#abb2bf"
     },
-    "variable.readonly": {
-      "foreground": "#e5c07b"
+    "property.declaration": {
+      "foreground": "#e06c75"
     }
   },
   "tokenColors": [
