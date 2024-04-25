@@ -32,6 +32,15 @@
     },
     "memberOperatorOverload": {
       "foreground": "#c678dd"
+    },
+    "variable": {
+      "foreground": "#abb2bf"
+    },
+    "property": {
+      "foreground": "#abb2bf"
+    },
+    "variable.readonly": {
+      "foreground": "#e5c07b"
     }
   },
   "tokenColors": [

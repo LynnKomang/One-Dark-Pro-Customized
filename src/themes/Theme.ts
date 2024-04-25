@@ -84,9 +84,19 @@ function configFactory(configuration) {
       tomlArrayKey: {
         foreground: colorObj.chalky,
       },
-      "memberOperatorOverload": {
+      memberOperatorOverload: {
         foreground: colorObj.purple,
-      }
+      },
+      // One Dark Pro Tweaked new properties
+      variable: {
+        foreground: colorObj.lightWhite,
+      },
+      property: {
+        foreground: colorObj.lightWhite,
+      },
+      'variable.readonly': {
+        foreground: colorObj.chalky,
+      },
     },
     tokenColors: result,
   }
